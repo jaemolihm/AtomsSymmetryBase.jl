@@ -2,5 +2,5 @@ using AtomsSymmetryBase
 using Test
 
 @testset "AtomsSymmetryBase.jl" begin
-    # Write your tests here.
+    include("test_SymOp.jl")
 end
