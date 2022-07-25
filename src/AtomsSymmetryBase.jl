@@ -6,4 +6,6 @@ export Vec3
 export SymOp
 include("SymOp.jl")
 
+include("spglib.jl")
+
 end
